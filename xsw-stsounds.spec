@@ -6,6 +6,7 @@ Release:	2
 License:	GPL-like
 Group:		Applications/Games
 Source0:	ftp://gd.tuwien.ac.at/games/wolfpack/stsounds%{version}.tgz
+# Source0-md5:	7a440c9f86c5a124912c6187d2943ef4
 URL:		http://wolfpack.twu.net/ShipWars/XShipWars/
 Provides:	xsw-sounds
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
