@@ -1,4 +1,5 @@
 Summary:	XShipWars sounds (Star Trek theme)
+Summary(pl):	D¼wiêki do XShipWars (temat Star Trek)
 Name:		xsw-stsounds
 Version:	1.4
 Release:	1
@@ -18,15 +19,18 @@ XShipWars is a highly customizable and massivly multiplayer space
 gamming system designed for play entirly over the Internet.
 This package contains StarTrek sound theme for the game.
 
-%prep
+%description -l pl
+XShipWars to wysoko konfigurowalny system gry w przestrzeni kosmicznej
+dla wielu graczy, zaprojektowany do grania przez Internet. Ten pakiet
+zawiera temat d¼wiêkowy Star Trek dla tej gry.
 
-%build
+%prep
 
 %install
 rm -rf $RPM_BUILD_ROOT
-install -d $RPM_BUILD_ROOT/%{_datadir}/xshipwars/
+install -d $RPM_BUILD_ROOT%{_datadir}/xshipwars
 
-cd $RPM_BUILD_ROOT/%{_datadir}/xshipwars/
+cd $RPM_BUILD_ROOT%{_datadir}/xshipwars
 tar xzf %{SOURCE0}
 
 %clean
