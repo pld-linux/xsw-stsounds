@@ -7,8 +7,8 @@ License:	Modified GPL
 Group:		Applications/Games
 Group(de):	Applikationen/Spiele
 Group(pl):	Aplikacje/Gry
-Source0:	ftp://fox.mit.edu/pub/%{name}/stsounds%{version}.tgz
-URL:		http://wolfpack.tfu.net/ShipWars/XShipWars/
+Source0:	ftp://gd.tuwien.ac.at/games/wolfpack/stsounds%{version}.tgz
+URL:		http://wolfpack.twu.net/ShipWars/XShipWars/
 Provides:	xsw-sounds
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
