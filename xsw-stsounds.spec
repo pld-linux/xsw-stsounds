@@ -2,8 +2,8 @@ Summary:	XShipWars sounds (Star Trek theme)
 Summary(pl):	D¼wiêki do XShipWars (temat Star Trek)
 Name:		xsw-stsounds
 Version:	1.4
-Release:	1
-License:	Modified GPL
+Release:	2
+License:	GPL-like
 Group:		Applications/Games
 Source0:	ftp://gd.tuwien.ac.at/games/wolfpack/stsounds%{version}.tgz
 URL:		http://wolfpack.twu.net/ShipWars/XShipWars/
