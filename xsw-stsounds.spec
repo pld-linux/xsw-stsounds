@@ -1,5 +1,5 @@
 Summary:	XShipWars sounds (Star Trek theme)
-Summary(pl.UTF-8):   Dźwięki do XShipWars (motyw Star Trek)
+Summary(pl.UTF-8):	Dźwięki do XShipWars (motyw Star Trek)
 Name:		xsw-stsounds
 Version:	1.4
 Release:	2
