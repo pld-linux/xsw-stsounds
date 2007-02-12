@@ -1,5 +1,5 @@
 Summary:	XShipWars sounds (Star Trek theme)
-Summary(pl):	D¼wiêki do XShipWars (motyw Star Trek)
+Summary(pl.UTF-8):   DÅºwiÄ™ki do XShipWars (motyw Star Trek)
 Name:		xsw-stsounds
 Version:	1.4
 Release:	2
@@ -17,10 +17,10 @@ XShipWars is a highly customizable and massivly multiplayer space
 gamming system designed for play entirly over the Internet. This
 package contains StarTrek sound theme for the game.
 
-%description -l pl
+%description -l pl.UTF-8
 XShipWars to wysoko konfigurowalny system gry w przestrzeni kosmicznej
 dla wielu graczy, zaprojektowany do grania przez Internet. Ten pakiet
-zawiera motyw d¼wiêkowy Star Trek dla tej gry.
+zawiera motyw dÅºwiÄ™kowy Star Trek dla tej gry.
 
 %prep
 
